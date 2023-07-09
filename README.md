@@ -40,13 +40,13 @@
 <br/>
 
 <a href="https://github.com/pedronetto404">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNetto404&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Pedro Netto](https://img.shields.io/badge/-nettopedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nettopedro)](https://www.linkedin.com/in/nettopedro)
+[![Gmail Badge](https://img.shields.io/badge/-pedronetto31415@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:pedronetto31415@gmail.com)
+[![GitHub Pedro Netto]( https://img.shields.io/github/followers/PedroNetto404?label=follow&style=social)](https://github.com/PedroNetto404)
