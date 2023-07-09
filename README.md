@@ -1,5 +1,4 @@
-
-![](https://komarev.com/ghpvc/?username=pedronetto404&color=006bed)
+<h1>Olá caro amigo, que bom tê-lo por aqui! Eu sou o Pedro Netto🤓</h1>
 
 <h3> 🧔‍♂️: &nbsp;Sobre mim </h3>
 
