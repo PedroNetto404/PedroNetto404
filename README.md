@@ -21,11 +21,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 
-
-**Utilidades**
-
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
