@@ -4,8 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://www.fatecrp.edu.br/">Fatec Ribeirão Preto</a>.
-- 💼 &nbsp; Trabalhando como **desenvolvedor júnior** no <a href="https://bkbank.com.br/">BK Bank</a>
-- 🌱 &nbsp; Aprendendo mais sobre **C#, .NET, ASP.NET, SQL Server, Clean Architecture, Domain-Driven Design, Clean Code, JavaScript, React, Angular, HTML, CSS**.
+- 🌱 &nbsp; Aprendendo mais sobre **C#, .NET, ASP.NET, SQL Server, Clean Architecture, Domain-Driven Design, Clean Code, JavaScript, React, HTML, CSS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
