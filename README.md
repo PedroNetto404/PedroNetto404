@@ -1,15 +1,13 @@
-<h1>Olá! Eu sou Pedro Netto 🤓</h1>
+# Hello World! I'm Pedro Netto 🤓
 
-<h3>🧔‍♂️ Sobre mim</h3>
+## 🧔‍♂️ About me
 
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na [Fatec Ribeirão Preto](http://www.fatecrp.edu.br/).
-- 🚀 Desenvolvedor Backend com experiência em C#, ASP.NET Core, SQL Server e AWS.
-- 💳 Experiência em desenvolvimento de soluções para **meios de pagamento**.
-- 🌱 Aprendendo sobre Clean Architecture, Domain-Driven Design, Clean Code, e ampliando conhecimentos em JavaScript, React, HTML e CSS.
+I'm a **Software Developer** with experience in **C#**, **ASP.NET Core**, **SQL Server** and **AWS**. I'm currently studying **Analysis and Systems Development** at [Fatec Ribeirão Preto](http://www.fatecrp.edu.br/). I'm learning about **Clean Architecture**, **Domain-Driven Design**, **Clean Code**, and expanding my knowledge in **JavaScript**, **React**, **HTML** and **CSS**.
+My focus is on **Backend Development** and I have experience in developing solutions for **payment methods**. But I'm also interested in **Frontend Development** and **DevOps**.
 
-<h3>:rocket: Minhas Skills</h3>
+## :rocket: My Skills
 
-**Linguagens e Ferramentas**
+**Languages and Tools**
 
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
@@ -20,7 +18,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**DevOps e Ferramentas**
+**DevOps**
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -35,21 +33,21 @@
 
 <br/>
 
-<h3>:wrench: Experiência</h3>
+## :wrench: My Projects and Experience
 
-- **Desenvolvedor Júnior II** na **BK Bank Meios de Pagamento**, Ribeirão Preto (FEV 2023 – JAN 2024)
-  - Desenvolvimento de integrações com emissores de cartões de crédito pré-pagos, criando APIs para processamento e aprovação de transações online.
-  - Implementação de aplicações serverless para processamento de transações débito/crédito, consumindo uma fila AWS SQS.
-  - Implementação da integração do sistema de débito direto autorizado.
+- **Junior Developer I** at **BK Bank Meios de Pagamento**, Ribeirão Preto (OCT 2022 – FEB 2023)
+  - Maintenance and development of new features in internet banking using ASP.NET Core MVC.
+  - Development of procedures and Jobs for payment automation.
+  - Maintenance of Web APIs for PIX and boleto payments.
+  - Integrations with third-party systems related to subacquiring, PIX and other payment methods using SQL Server, AWS SQS and Lambda.
+  
+- **Junior Developer II** at **BK Bank Meios de Pagamento**, Ribeirão Preto (FEB 2023 – JAN 2024)
+  - Development of integrations with prepaid credit card issuers, creating APIs for processing and approving online transactions.
+  - Implementation of serverless applications for processing debit/credit transactions, consuming an AWS SQS queue.
+  - Implementation of the integration of the direct debit system.
 
-- **Desenvolvedor Júnior I** na **BK Bank Meios de Pagamento**, Ribeirão Preto (OUT 2022 – FEV 2023)
-  - Manutenção e desenvolvimento de novas funcionalidades no internet banking utilizando ASP.NET Core MVC.
-  - Desenvolvimento de procedures e Jobs para automatização de pagamentos.
-  - Manutenção de Web APIs para pagamento de PIX e boletos.
-  - Integrações com sistemas de terceiros relacionados à subadquirência, PIX e outros meios de pagamentos utilizando SQL Server, AWS SQS e Lambda.
-
-<h3>:earth_americas: Onde me encontrar</h3>
+## :earth_americas: Where you can find me
 
 [![LinkedIn: Pedro Netto](https://img.shields.io/badge/nettopedro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nettopedro)
 [![Email](https://img.shields.io/badge/pedronetto31415%40gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedronetto31415@gmail.com)
-[![GitHub Pedro Netto](https://img.shields.io/github/followers/PedroNetto404?label=follow&style=social)](https://github.com/PedroNetto404)
+[![GitHub Pedro Netto](https://img.shields.io/github/followers/PedroNetto404?label=follow&style=social)](https://github.com/PedroNetto404) 
